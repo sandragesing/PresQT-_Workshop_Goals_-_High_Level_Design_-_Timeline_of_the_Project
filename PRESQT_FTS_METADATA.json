@@ -1,0 +1,89 @@
+{
+    "allKeywords": [
+        "presqt2018",
+        "talk"
+    ],
+    "actions": [
+        {
+            "id": "98ede0bd-93e1-4cd6-a3ef-7d8ded9684f0",
+            "details": "PresQT Transfer from OSF to GitHub",
+            "actionDateTime": "2020-11-23 15:45:23.001177+00:00",
+            "actionType": "resource_transfer_in",
+            "sourceTargetName": "osf",
+            "sourceUsername": "Sandra Gesing",
+            "destinationTargetName": "github",
+            "destinationUsername": "sandragesing",
+            "keywords": {
+                "sourceKeywordsAdded": [
+                    "presqt2018",
+                    "talk"
+                ],
+                "sourceKeywordsEnhanced": [],
+                "ontologies": [],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [
+                    {
+                        "destinationPath": "/PresQT-_Workshop_Goals_-_High_Level_Design_-_Timeline_of_the_Project/osfstorage/PresQTKickOff17September2018SandraGesing-v2.pptx",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "693e31185a42628657eb765458701127",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "PresQTKickOff17September2018SandraGesing-v2.pptx",
+                        "sourceHashes": {
+                            "md5": "693e31185a42628657eb765458701127",
+                            "sha256": "48e2899afb510e94a70ddb78e89427bd5ad8ff08ce5b60d316e53df235e2d2a0"
+                        },
+                        "sourcePath": "/PresQT: Workshop Goals - High Level Design - Timeline of the Project/osfstorage/PresQTKickOff17September2018SandraGesing-v2.pptx",
+                        "extra": {
+                            "id": "5b9f89f79370b40016b125a0",
+                            "parent_project_id": "dn5mp",
+                            "endpoint": "https://api.osf.io/v2/files/5b9f89f79370b40016b125a0/",
+                            "download_url": "https://files.osf.io/v1/resources/dn5mp/providers/osfstorage/5b9f89f79370b40016b125a0",
+                            "upload_url": "https://files.osf.io/v1/resources/dn5mp/providers/osfstorage/5b9f89f79370b40016b125a0",
+                            "delete_url": "https://files.osf.io/v1/resources/dn5mp/providers/osfstorage/5b9f89f79370b40016b125a0",
+                            "last_touched": null,
+                            "date_modified": "2018-09-17T11:03:19.834217Z",
+                            "current_version": 1,
+                            "date_created": "2018-09-17T11:03:19.834217Z",
+                            "provider": "osfstorage",
+                            "path": "/5b9f89f79370b40016b125a0",
+                            "current_user_can_comment": true,
+                            "guid": "acdu9",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 2308959
+                        }
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ],
+    "extra_metadata": {
+        "title": "PresQT: Workshop Goals - High Level Design - Timeline of the Project",
+        "creators": [
+            {
+                "first_name": "Sandra",
+                "last_name": "Gesing",
+                "ORCID": null
+            }
+        ],
+        "publication_date": "2018-09-17T11:03:14.002649",
+        "description": "",
+        "keywords": [
+            "PRESQT2018",
+            "talk"
+        ],
+        "license": null,
+        "related_identifiers": [],
+        "references": null,
+        "notes": null
+    }
+}
